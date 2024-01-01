@@ -10,7 +10,11 @@
 ![Figma](https://img.shields.io/badge/figma-6E12C4.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 ### Preview
-[https://github.com/Mohit-005/Halloween-Parallax/blob/main/asset/Preview.mp4] (https://github.com/Mohit-005/Halloween-Parallax/blob/main/asset/Preview.mp4)
+
+https://github.com/Mohit-005/Halloween-Parallax/assets/115066003/8d7c1d4b-4b7d-4951-b663-b896b2cf176c
+
+
+
 
 ### Useful Resources
 
