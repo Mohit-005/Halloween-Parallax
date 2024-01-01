@@ -11,6 +11,8 @@
 
 ### Preview
 
+https://github.com/Mohit-005/Halloween-Parallax/assets/115066003/1838bbd4-acd8-4b90-9772-1b9dc946b394
+
 
 
 ### Useful Resources
