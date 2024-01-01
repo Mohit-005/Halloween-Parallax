@@ -9,6 +9,9 @@
 ![Swiper](https://img.shields.io/badge/swiper%20js-4287F5?style=for-the-badge&logo=swiper&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-6E12C4.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
+### Preview
+[https://github.com/Mohit-005/Halloween-Parallax/blob/main/asset/Preview.mp4] (https://github.com/Mohit-005/Halloween-Parallax/blob/main/asset/Preview.mp4)
+
 ### Useful Resources
 
 - [Freepik](https://www.freepik.com/free-vector/gradient-halloween-background_30592965.htm#position=36) - illustration
