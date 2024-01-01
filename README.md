@@ -9,8 +9,22 @@
 ![Swiper](https://img.shields.io/badge/swiper%20js-4287F5?style=for-the-badge&logo=swiper&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-6E12C4.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
+<<<<<<< HEAD
+=======
+### Preview
+
+https://github.com/Mohit-005/Halloween-Parallax/assets/115066003/8d7c1d4b-4b7d-4951-b663-b896b2cf176c
+
+
+
+
+>>>>>>> 87ca9a3823f4022295b2a624c1860d0b4a24e7c0
 ### Useful Resources
 
 - [Freepik](https://www.freepik.com/free-vector/gradient-halloween-background_30592965.htm#position=36) - illustration
 - [Greensock](https://greensock.com/docs/v3/Installation?checked=core,scrollTrigger) - for animation
+<<<<<<< HEAD
 - [Swiper](https://swiperjs.com/swiper-api#parallax) - for slider
+=======
+- [Swiper](https://swiperjs.com/swiper-api#parallax) - for slider
+>>>>>>> 87ca9a3823f4022295b2a624c1860d0b4a24e7c0
