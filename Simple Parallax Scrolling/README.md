@@ -20,6 +20,7 @@
 
 ### Preview
 
+![270433422-207944d3-18b7-4175-b180-1dbb37f592a2](https://github.com/Mohit-005/Parallax/assets/115066003/a50314bb-db7b-4fe9-b72b-5a7580b7ce71)
 
 ### Useful Resources
 
