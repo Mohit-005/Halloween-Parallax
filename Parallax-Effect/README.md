@@ -10,7 +10,7 @@
 
 ### Preview
 
-
+https://github.com/Mohit-005/Parallax/assets/115066003/c0ebe22d-4038-4930-bf21-bb77ba4b8ceb
 
 ### Useful Resources
 
